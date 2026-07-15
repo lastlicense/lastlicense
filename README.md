@@ -23,11 +23,6 @@ My Skills:
 
 My Projects:
 
-- Telegram Bots
-
-Development of Telegram bots using Python.
-I work with libraries such as 'aiogram' and 'telebot'.
-
 - Modern Websites
 
 Creation of responsive websites and landing pages with modern UI design, animations, and optimized layouts for different devices.
@@ -38,4 +33,4 @@ Development of practical Windows utilities and automation scripts compiled into 
 
 My Goal:
 
-My goal is to continuously improve my skills, become a professional software developer, and create modern applications that solve real-world problems.
+My goal is to continuously improve my skills, become a professional software developer, and create modern applications.
