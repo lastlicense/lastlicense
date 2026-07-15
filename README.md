@@ -1,16 +1,41 @@
-## Hi there 👋
+Hello! My name is Bogdan, I am a 17-year-old developer from Ukraine, currently living in Germany.
 
-<!--
-**lastlicense/lastlicense** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I recently successfully passed my B2 German language exam. 
+I can communicate confidently with people and enjoy working in international environments. 
+I learn new technologies quickly and adapt easily to new challenges.
 
-Here are some ideas to get you started:
+How I Work:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I create modern software using current development technologies and AI-assisted workflows. I use AI tools to analyze code, find bugs faster, improve solutions, and make the development process more efficient.
+
+My focus is writing clean, understandable, and functional code while building real-world projects.
+
+My Skills:
+
+- HTML5
+- CSS3
+- JavaScript
+- Python
+- Git & GitHub
+- Responsive Web Design
+- Prompt Engineering
+- AI-assisted Development
+
+My Projects:
+
+- Telegram Bots
+
+Development of Telegram bots using Python.
+I work with libraries such as 'aiogram' and 'telebot'.
+
+- Modern Websites
+
+Creation of responsive websites and landing pages with modern UI design, animations, and optimized layouts for different devices.
+
+- Windows Tools
+
+Development of practical Windows utilities and automation scripts compiled into '.exe' applications.
+
+My Goal:
+
+My goal is to continuously improve my skills, become a professional software developer, and create modern applications that solve real-world problems.
