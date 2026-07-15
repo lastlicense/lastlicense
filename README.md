@@ -8,8 +8,6 @@ How I Work:
 
 I create modern software using current development technologies and AI-assisted workflows. I use AI tools to analyze code, find bugs faster, improve solutions, and make the development process more efficient.
 
-My focus is writing clean, understandable, and functional code while building real-world projects.
-
 My Skills:
 
 - HTML5
