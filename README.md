@@ -1,34 +1,26 @@
-Hello! My name is Bogdan, I am a 17-year-old developer from Ukraine, currently living in Germany.
+# LASTLICENSE
 
-I recently successfully passed my B2 German language exam. 
-I can communicate confidently with people and enjoy working in international environments. 
-I learn new technologies quickly and adapt easily to new challenges.
+> Frontend Developer
 
-How I Work:
+Building modern websites with clean code, responsive layouts and AI-assisted workflows.
 
-I create modern software using current development technologies and AI-assisted workflows. I use AI tools to analyze code, find bugs faster, improve solutions, and make the development process more efficient.
+### Stack
 
-My Skills:
+HTML • CSS • JavaScript • AI Tools
 
-- HTML5
-- CSS3
-- JavaScript
-- Python
-- Git & GitHub
-- Responsive Web Design
-- Prompt Engineering
-- AI-assisted Development
+### Currently
 
-My Projects:
+• Creating portfolio projects  
+• Building websites for small businesses  
+• Using AI to improve development workflows and productivity
 
-- Modern Websites
+### Workflow
 
-Creation of responsive websites and landing pages with modern UI design, animations, and optimized layouts for different devices.
+I combine modern AI tools with frontend development to speed up research, optimize code, and create better user experiences while keeping every project custom-built and manually refined.
 
-- Windows Tools
+### Contact
 
-Development of practical Windows utilities and automation scripts compiled into '.exe' applications.
+📧 lastlicense@proton.me
 
-My Goal:
-
-My goal is to continuously improve my skills, become a professional software developer, and create modern applications.
+GitHub:
+https://github.com/lastlicense
